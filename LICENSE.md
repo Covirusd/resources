@@ -1,4 +1,4 @@
-Copyright 2019 The 3aransia Authors.  All rights reserved.
+Copyright 2019 The Covirusd Authors.  All rights reserved.
 
                                  Apache License
                            Version 2.0, January 2004
