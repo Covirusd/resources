@@ -13,7 +13,6 @@ Contributing: Update [README.md](README.md) and make a pull request for reviewin
 - R querying and vizualizing data nCov2019: [https://github.com/GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)
 - iOS and macOS tracker app for Coronavirus: [https://github.com/MhdHejazi/CoronaTracker](https://github.com/MhdHejazi/CoronaTracker)
 - Using deep learning to generate novel molecules as candidates for binding with coronavirus protease [https://github.com/mattroconnor/deep_learning_coronavirus_cure](https://github.com/mattroconnor/deep_learning_coronavirus_cure)
-- 
 
 ## Data Sources
 
