@@ -1,6 +1,6 @@
-# COVID-19 Corona Virus Decease Ressources
+# COVID-19 Coronavirus Disease Ressources
 
-List of the available ressources deployed against the COVID-19 Corona Virus (coronavirus) Decease Ressources
+List of the available ressources deployed against the COVID-19 Coronavirus Disease Ressources
 
 Contributing: Update [README.md](README.md) and make a pull request for reviewing.
 
