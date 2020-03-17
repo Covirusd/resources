@@ -22,7 +22,7 @@ Contributing: Update [README.md](README.md) and make a pull request for reviewin
 - BNO News: [https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)  
 - National Health Commission of the People’s Republic of China (NHC): 
  [http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml](http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml)
-- China CDC (CCDC): [http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm(http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm)
+- China CDC (CCDC): [http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm)
 - Hong Kong Department of Health: [https://www.chp.gov.hk/en/features/102465.html](https://www.chp.gov.hk/en/features/102465.html)
 - Macau Government: [https://www.ssm.gov.mo/portal/](https://www.ssm.gov.mo/portal/)
 - Taiwan CDC: [https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0](https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0) 
