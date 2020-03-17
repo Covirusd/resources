@@ -1,10 +1,10 @@
-# COVID-19 Coronavirus Disease Ressources
+# COVID-19 Coronavirus Disease Resources
 
-List of the available ressources deployed against the COVID-19 Coronavirus Disease Ressources
+List of the available resources deployed against the COVID-19 Coronavirus Disease Resources
 
 Contributing: Update [README.md](README.md) and make a pull request for reviewing.
 
-## Github Ressources
+## Github Resources
 
 - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 - Genomic epidemiology of novel coronavirus (hCoV-19) by nextstrain: [https://github.com/nextstrain/ncov](https://github.com/nextstrain/ncov)
