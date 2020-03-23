@@ -4,6 +4,9 @@ List of the available resources deployed against the COVID-19 Coronavirus Diseas
 
 Contributing: Update [README.md](README.md) and make a pull request for reviewing.
 
+## APIs
+- API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain: [https://github.com/NovelCOVID/API](https://github.com/NovelCOVID/API)
+
 ## Github Resources
 
 - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
