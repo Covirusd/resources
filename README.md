@@ -31,3 +31,4 @@ Contributing: Update [README.md](README.md) and make a pull request for reviewin
 - European Centre for Disease Prevention and Control (ECDC): [https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) 
 - Ministry of Health Singapore (MOH): [https://www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19)
 - Italy Ministry of Health: [http://www.salute.gov.it/nuovocoronavirus](http://www.salute.gov.it/nuovocoronavirus)
+- [Covid-19 Normalized Dataset](https://github.com/fudgeythewhaler/covid19)
