@@ -36,3 +36,7 @@ Contributing: Update [README.md](README.md) and make a pull request for reviewin
 - Ministry of Health Singapore (MOH): [https://www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19)
 - Italy Ministry of Health: [http://www.salute.gov.it/nuovocoronavirus](http://www.salute.gov.it/nuovocoronavirus)
 - Covid-19 Normalized Dataset: [https://github.com/fudgeythewhaler/covid19](https://github.com/fudgeythewhaler/covid19)
+
+## Articles
+
+- A Simple Way to Gather all Coronavirus Related Data with Python: [https://towardsdatascience.com/gather-all-the-coronavirus-data-with-python-19aa22167dea](https://towardsdatascience.com/gather-all-the-coronavirus-data-with-python-19aa22167dea)
