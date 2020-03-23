@@ -6,6 +6,7 @@ Contributing: Update [README.md](README.md) and make a pull request for reviewin
 
 ## APIs
 - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain: [https://github.com/NovelCOVID/API](https://github.com/NovelCOVID/API)
+- API for current cases with mobile Front-end: [https://github.com/javieraviles/covidAPI](https://github.com/javieraviles/covidAPI)
 
 ## Github Resources
 
